@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/weanalyze/workcell,114,9
+/weanalyze/workcell/actions,58,1
+/weanalyze/workcell/actions/workflows/build-image.yml,32,1
+/weanalyze/workcell/actions/workflows/release.yml,26,1
+/weanalyze/workcell/releases,25,1
+/weanalyze/workcell/tags,18,1
+/weanalyze/workcell/tree/dev,17,1
+/weanalyze/workcell/compare/dev,9,1
+/weanalyze/workcell/pulls,7,2
+/weanalyze/workcell/compare/main...dev,7,1
