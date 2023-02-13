@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/weanalyze/workcell,54,10
+/weanalyze/workcell/tree/dev-extend-component,11,2
+/weanalyze/workcell/tree/main/examples,5,4
+/weanalyze/workcell/actions,5,2
+/weanalyze/workcell/tree/main/workcell,5,2
+/weanalyze/workcell/blob/main/README_zh-hans.md,3,3
+/weanalyze/workcell/issues,3,2
+/weanalyze/workcell/pulls,3,2
+/weanalyze/workcell/compare/dev,3,1
+/weanalyze/workcell/graphs/commit-activity,3,1
