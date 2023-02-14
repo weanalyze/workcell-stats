@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/weanalyze/workcell,70,8
+/weanalyze/workcell/tree/dev-extend-component,11,2
+/weanalyze/workcell/compare/dev,8,1
+/weanalyze/workcell/actions,7,2
+/weanalyze/workcell/tree/main/workcell,6,2
+/weanalyze/workcell/pulls,5,2
+/weanalyze/workcell/branches,4,1
+/weanalyze/workcell/releases,4,1
+/weanalyze/workcell/blob/main/workcell/integrations/types/__init__.py,3,2
+/weanalyze/workcell/issues,3,2
