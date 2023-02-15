@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/weanalyze/workcell,90,8
+/weanalyze/workcell/releases,15,1
+/weanalyze/workcell/actions,13,2
+/weanalyze/workcell/compare/dev,12,1
+/weanalyze/workcell/tree/dev-extend-component,11,2
+/weanalyze/workcell/pulls,6,2
+/weanalyze/workcell/tree/main/workcell,6,2
+/weanalyze/workcell/branches,4,1
+/weanalyze/workcell/compare/main...dev,4,1
+/weanalyze/workcell/tree/dev,4,1
