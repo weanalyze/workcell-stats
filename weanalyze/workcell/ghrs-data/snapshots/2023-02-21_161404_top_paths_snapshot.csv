@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/weanalyze/workcell,89,13
+/weanalyze/workcell/releases,14,1
+/weanalyze/workcell/actions,11,1
+/weanalyze/workcell/compare/dev,10,1
+/weanalyze/workcell/pulls,7,2
+/weanalyze/workcell/tree/dev-extend-component,7,1
+/weanalyze/workcell/blob/main/README_zh-hans.md,6,4
+/weanalyze/workcell/tree/main/examples,4,2
+/weanalyze/workcell/branches,4,1
+/weanalyze/workcell/compare/main...dev,4,1
