@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/weanalyze/workcell,98,56
+/weanalyze/workcell/commits/main,9,1
+/weanalyze/workcell/pulls,7,3
+/weanalyze/workcell/tree/main/examples,6,6
+/weanalyze/workcell/tree/main/workcell,6,5
+/weanalyze/workcell/blob/main/README.md,5,1
+/weanalyze/workcell/stargazers,4,4
+/weanalyze/workcell/tree/main/examples/showcase_components,4,4
+/weanalyze/workcell/blob/main/examples/showcase_components/app.py,3,3
+/weanalyze/workcell/tree/main/workcell/core,3,3
