@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/weanalyze/workcell,40,20
+/weanalyze/workcell/stargazers,6,3
+/weanalyze/workcell/commits/main,6,1
+/weanalyze/workcell/tree/main/workcell/core,3,2
+/weanalyze/workcell/blob/main/workcell/core/routes.py,2,2
+/weanalyze/workcell/tree/main/workcell,2,2
+/weanalyze/workcell/pulls,2,1
+/weanalyze/workcell/blob/main/workcell/cli/builder.py,1,1
+/weanalyze/workcell/blob/main/workcell/core/components.py,1,1
+/weanalyze/workcell/blob/main/workcell/core/__init__.py,1,1
