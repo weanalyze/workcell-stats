@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/weanalyze/workcell,50,26
+/weanalyze/workcell/blob/main/README.md,8,2
+/weanalyze/workcell/commits/main,7,2
+/weanalyze/workcell/stargazers,5,4
+/weanalyze/workcell/pulls,2,1
+/weanalyze/workcell/blob/main/LICENSE,1,1
+/weanalyze/workcell/blob/main/workcell/cli/builder.py,1,1
+/weanalyze/workcell/blob/main/workcell/core/networking.py,1,1
+/weanalyze/workcell/blob/main/workcell/core/routes.py,1,1
+/weanalyze/workcell/issues,1,1
