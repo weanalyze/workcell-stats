@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/weanalyze/workcell,27,17
+/weanalyze/workcell/commits/main,3,1
+/weanalyze/workcell/pulls,3,1
+/weanalyze/workcell/blob/main/README_zh-hans.md,2,2
+/weanalyze/workcell/blob/main/workcell/core/constants.py,1,1
+/weanalyze/workcell/blob/main/workcell/core/spec.py,1,1
+/weanalyze/workcell/commit/08aa270079fe689b32d106b1fae10bfb011a13ba,1,1
+/weanalyze/workcell/commit/4be13dde2a0f5607ed88dd9bb3a3e9588057ae4f,1,1
+/weanalyze/workcell/tree/main/workcell,1,1
+/weanalyze/workcell/tree/main/workcell/core,1,1
