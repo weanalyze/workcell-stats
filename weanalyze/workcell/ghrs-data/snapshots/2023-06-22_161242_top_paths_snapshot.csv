@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/weanalyze/workcell,20,14
+/weanalyze/workcell/blob/main/README_zh-hans.md,4,3
+/weanalyze/workcell/pulls,3,1
+/weanalyze/workcell/blob/main/examples/hello_workcell/app.py,2,2
+/weanalyze/workcell/tree/main/examples,2,2
+/weanalyze/workcell/tree/main/examples/hello_workcell,2,2
+/weanalyze/workcell/tree/main/workcell,2,2
+/weanalyze/workcell/blob/main/workcell/core/constants.py,1,1
+/weanalyze/workcell/blob/main/workcell/core/spec.py,1,1
+/weanalyze/workcell/tree/main/docs,1,1
