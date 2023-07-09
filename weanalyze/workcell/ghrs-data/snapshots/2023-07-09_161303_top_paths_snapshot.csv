@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/weanalyze/workcell,26,20
+/weanalyze/workcell/blob/main/README_zh-hans.md,8,3
+/weanalyze/workcell/tree/main/workcell,4,2
+/weanalyze/workcell/blob/main/pyproject.toml,3,1
+/weanalyze/workcell/commits,3,1
+/weanalyze/workcell/tree/main,2,2
+/weanalyze/workcell/blob/main/docs/docs/guides/congratulations.md,2,1
+/weanalyze/workcell/blob/main/docs/docs/tutorials/model-serving.md,2,1
+/weanalyze/workcell/blob/main/docs/docs/tutorials/workcell-ui-showcase.md,2,1
+/weanalyze/workcell/blob/main/examples/showcase_components/app.py,2,1
