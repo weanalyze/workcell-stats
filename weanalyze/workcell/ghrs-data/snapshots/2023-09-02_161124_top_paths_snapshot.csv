@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/weanalyze/workcell,20,11
+/weanalyze/workcell/tree/main/workcell,12,2
+/weanalyze/workcell/tree/main/workcell/templates,6,2
+/weanalyze/workcell/tree/main/workcell/templates/runtime/huggingface,6,2
+/weanalyze/workcell/blob/main/README.md,4,2
+/weanalyze/workcell/tree/main/examples,3,1
+/weanalyze/workcell/tree/main/examples/showcase_components,3,1
+/weanalyze/workcell/commits/main,2,2
+/weanalyze/workcell/blob/main/examples/showcase_components/app.py,2,1
+/weanalyze/workcell/blob/main/README_zh-hans.md,2,1
