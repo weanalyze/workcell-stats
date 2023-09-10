@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/weanalyze/workcell,18,9
+/weanalyze/workcell/tree/main/workcell,8,2
+/weanalyze/workcell/tree/main/workcell/templates,6,2
+/weanalyze/workcell/tree/main/workcell/templates/runtime/huggingface,6,2
+/weanalyze/workcell/blob/main/README.md,4,2
+/weanalyze/workcell/commits/main,2,2
+/weanalyze/workcell/tree/main/workcell/core,2,1
+/weanalyze/workcell/tree/main/workcell/integrations,2,1
+/weanalyze/workcell/tree/main/workcell/integrations/types,2,1
+/weanalyze/workcell/tree/main/workcell/templates/frontend,2,1
