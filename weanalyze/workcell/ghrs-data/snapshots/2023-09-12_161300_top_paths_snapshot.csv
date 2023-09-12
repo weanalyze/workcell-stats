@@ -1,0 +1,6 @@
+url_path,views_total,views_unique
+/weanalyze/workcell,12,7
+/weanalyze/workcell/blob/main/README.md,4,2
+/weanalyze/workcell/commits/main,2,2
+/weanalyze/workcell/tree/main/workcell/templates/runtime/huggingface,2,1
+/weanalyze/workcell/pull/80,1,1
