@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/weanalyze/workcell,17,13
+/weanalyze/workcell/blob/main/workcell/__init__.py,4,1
+/weanalyze/workcell/blob/main/pyproject.toml,3,1
+/weanalyze/workcell/tree/main,2,2
+/weanalyze/workcell/blob/main/examples/hello_workcell/app.py,2,1
+/weanalyze/workcell/blob/main/README.md,2,1
+/weanalyze/workcell/tree/main/workcell/templates/runtime/huggingface,2,1
