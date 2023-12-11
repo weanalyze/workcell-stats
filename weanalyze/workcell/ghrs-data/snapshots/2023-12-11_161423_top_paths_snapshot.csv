@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/weanalyze/workcell,10,8
+/weanalyze/workcell/tree/dev/workcell/templates,3,1
+/weanalyze/workcell/blob/08aa270079fe689b32d106b1fae10bfb011a13ba/workcell/core/routes.py,2,1
+/weanalyze/workcell/blob/dev/workcell/core/constants.py,2,1
+/weanalyze/workcell/blob/main/examples/hello_workcell/app.py,2,1
+/weanalyze/workcell/blob/main/examples/showcase_components/app.py,2,1
+/weanalyze/workcell/blob/main/workcell/core/routes.py,2,1
+/weanalyze/workcell/blob/main/workcell/utils/encryptor.py,2,1
+/weanalyze/workcell/tree/dev,2,1
+/weanalyze/workcell/tree/main/examples/showcase_components,2,1
