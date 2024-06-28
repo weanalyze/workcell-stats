@@ -1,0 +1,7 @@
+url_path,views_total,views_unique
+/weanalyze/workcell/commits/main,20,2
+/weanalyze/workcell,8,8
+/weanalyze/workcell/tree/main/workcell,3,1
+/weanalyze/workcell/tree/main/workcell/cli,3,1
+/weanalyze/workcell/blob/main/README.md,2,1
+/weanalyze/workcell/blob/main/workcell/cli/builder.py,2,1
