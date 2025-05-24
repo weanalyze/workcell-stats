@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/weanalyze/workcell,3,2
+/weanalyze/workcell/commits/main,2,1
+/weanalyze/workcell/issues,1,1
+/weanalyze/workcell/pulls,1,1
+/weanalyze/workcell/tree/main/examples,1,1
+/weanalyze/workcell/tree/main/examples/hello_workcell,1,1
+/weanalyze/workcell/tree/main/examples/showcase_components,1,1
+/weanalyze/workcell/tree/main/workcell,1,1
